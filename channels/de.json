@@ -23,10 +23,6 @@
       "description": "Kanal für Bastelprojekte"
     },
     {
-      "channel": "#buerstadt",
-      "description": "Bürstadt, Hessen – Lokaler MeshCore-Kanal"
-    },
-    {
       "channel": "#bbxdwd",
       "description": "Warnungen vom Deutschen Wetterdienst (Region Berlin)"
     },
@@ -89,6 +85,10 @@
     {
       "channel": "#bsmesh",
       "description": "Braunschweig/Wolfsburg region"
+    },
+    {
+      "channel": "#buerstadt",
+      "description": "Bürstadt, Hessen – Lokaler MeshCore-Kanal"
     },
     {
       "channel": "#bw",
